@@ -1,7 +1,5 @@
 from bisect import bisect
 
-net_income_mo = 0
-
 
 def get_income():
     """Establish user's Taxable Income for tax expense estimation.
